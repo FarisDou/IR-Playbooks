@@ -31,7 +31,7 @@ https://centralops.net/co/DomainDossier.aspx
 
 The Domain Dossier tool generates reports from public records about domain names and IP addresses to help solve problems, investigate cybercrime, or just better understand how things are set up. These reports may show you:
 
--    Owner’s contact information
+-    Owner's contact information
 -    Registrar and registry information
 -    The company that is hosting a Web site
 -    Where an IP address is geographically located
@@ -102,7 +102,7 @@ https://uncoder.io/
 Uncoder.IO is the online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers. Serving as one common language for cyber security it allows blue teams to break the limits of being dependent on single tool for hunting and detecting threats and avoid technology lock-in. With easy, fast and private UI you can translate the queries from one tool to another without a need to access to SIEM environment and in a matter of just few seconds. 
 
 ## One Click Forensics Lab
-https://0xbanana.com/blog/one-click-forensics-lab-in-the-cloud/
+https://0xbanana.com/post/one-click-forensics-lab-in-the-cloud/
 
 Deploy a DFIR forensics lab with one script on Google Cloud Platform!
 
