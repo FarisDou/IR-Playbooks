@@ -17,8 +17,9 @@ This service helps you detect potentially malicious websites.
 Check the online reputation/safety of a website.  
 
 ## IPVoid
-https://www.urlvoid.com/  
+https://www.ipvoid.com/  
 
+IP blacklist check, whois lookup, dns lookup, ping, and more!
 
 ##  ThreatCrowd 
 https://www.threatcrowd.org/  
